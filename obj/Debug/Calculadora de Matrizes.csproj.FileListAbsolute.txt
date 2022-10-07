@@ -1,0 +1,110 @@
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\LUCAS\Desktop\NAVE Trabalhos\Projetos Visual Studio\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\Lucas.Soares\Downloads\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\Luca.Silva\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\LUCAS\Desktop\Calculadora-de-Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\Lucas.Soares\Desktop\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csprojResolveAssemblyReference.cache
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Sobre.resources
+C:\Users\LUCAS\Documents\GitHub\Calculadora-de-Matrizes\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.Cache
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.AssemblyReference.cache
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.cache
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.exe
+C:\Users\JOAO.VIEIRA\Downloads\Calculadora-de-Matrizes-master\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.pdb
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.AssemblyReference.cache
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.SuggestedBindingRedirects.cache
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Form1.resources
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Matriz1.resources
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.GenerateResource.cache
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe.config
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.exe
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\bin\Debug\Calculadora de Matrizes.pdb
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora_de_Matrizes.Properties.Resources.resources
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.csproj.CoreCompileInputs.cache
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.exe
+E:\Calculadora-de-Matrizes-master\Calculadora de Matrizes\obj\Debug\Calculadora de Matrizes.pdb
